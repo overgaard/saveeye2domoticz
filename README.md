@@ -45,7 +45,7 @@ SaveEye device ──► MQTT broker ──► [ this bridge ] ──► MQTT br
 ## Installation
 
 ```bash
-git clone https://github.com/<your-user>/<your-repo>.git /opt/saveeye
+git clone https://github.com/overgaard/saveeye2domoticz.git /opt/saveeye
 cd /opt/saveeye
 pip install -r requirements.txt      # or: sudo apt install python3-paho-mqtt
 ```
