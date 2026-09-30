@@ -234,4 +234,4 @@ current in mA.
 
 ## License
 
-Add a license of your choice (for example MIT) as a `LICENSE` file.
+MIT see `LICENSE` file.
