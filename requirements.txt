@@ -1,0 +1,2 @@
+# Works with both paho-mqtt 1.x and 2.x
+paho-mqtt>=1.6
